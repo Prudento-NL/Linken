@@ -32,4 +32,7 @@
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+# test directory
+Test/
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,git
