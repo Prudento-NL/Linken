@@ -33,6 +33,6 @@
 .nfs*
 
 # test directory
-Test/
+/Test
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,git
