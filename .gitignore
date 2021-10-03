@@ -36,6 +36,6 @@
 /Test
 
 # Locked files
-.lock*
+.~lock*
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,git
