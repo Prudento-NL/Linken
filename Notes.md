@@ -1,12 +1,19 @@
 -- HANDLEIDING ------------------------------------------------------------
-- Huidige directory is /home/kees/Dropbox/MijnLinks
+- Huidige directory is /home/kees/Dropbox/Linken
 - Maken file in LO Calc.
-- Gebruik File > Save as
+- Gebruik File > Save as > Kies html
     - Export naar XHTML geeft een probleem met de Borders
 - Vul Properties > Title om een naam te tonen in de tab van de browser
 - Kolombreedte wordt door de browser gescaled naar de volledige pagina.
+- Zorgen dat de bookmark beschikbaar is op alle PC's.
+    - Verwijzen naar een file op de PC werkt niet omdat de link naar de folder op Dropbox de naam van de user bevat.
+    - Opgelost door de site te hosten vanaf GitHub.
+        - Om te hosten moet een index.html en een _config.yml file gemaakt worden.
+        - Gebruikte template is minimal.
+    - Bookmarks direct naar de files met de linken, dus niet naar de index.
 
--- HTML file in een bestaande file zetten ---------------------------------------------------
+-- HTML file in een bestaande file zetten ------------------------------------------------
+Je hebt niet toegang tot alle sites. Bijvoorbeeld O365 weigert contact.
 ```
 <body>
     <iframe src="./Linken_MASTER.html" frameborder="0" scrolling="yes" seamless="seamless"
