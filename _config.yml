@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+
+baseurl: "/Linken" 
+url: "https://prudento-nl.github.io" 
