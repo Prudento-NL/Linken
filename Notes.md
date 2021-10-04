@@ -23,6 +23,8 @@ Eventueel volgende tekst komt ver eronder te staan als je deheight niet aanpast.
 - Link in de bookmark werkt niet voor Sophia
     - Oorzaak: Link verwijst naar de folder Kees
     - Link via Dropbox: Dropbox ondersteunt het renderen van html files niet meer. Wordt Download of een Dropbox GUI.
+    - Via Github: site aangemaakt, maar de template overschrijft de Readme.md
+        - 04-10-2021 reste van Git gedaan.
 
 -- DONE -------------------------------------------------------------------
 - Is het mogelijk om de achtergrond van de niet gevulde cellen aan te passen (Misschien met een beperking op de cellen)
