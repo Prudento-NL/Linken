@@ -20,6 +20,9 @@ Eventueel volgende tekst komt ver eronder te staan als je deheight niet aanpast.
 - Navigatie maken in geval van meerdere tabbladen met html (zie code voor iframe in de Handleiding hierboven).
 
 - Beschrijving maken van de handleiding (zie boven)
+- Link in de bookmark werkt niet voor Sophia
+    - Oorzaak: Link verwijst naar de folder Kees
+    - Link via Dropbox: Dropbox ondersteunt het renderen van html files niet meer. Wordt Download of een Dropbox GUI.
 
 -- DONE -------------------------------------------------------------------
 - Is het mogelijk om de achtergrond van de niet gevulde cellen aan te passen (Misschien met een beperking op de cellen)
