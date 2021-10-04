@@ -24,7 +24,7 @@ N.B. Met _height:100vh_ kan je de hoogte bepalen. 100vh geeft een scrolbalk. 8b 
 Eventueel volgende tekst komt ver eronder te staan als je deheight niet aanpast.
 
 -- TODO -------------------------------------------------------------------
-- Navigatie maken in geval van meerdere tabbladen met html (zie code voor iframe in de Handleiding hierboven).
+- 
 
 - Beschrijving maken van de handleiding (zie boven)
 - Link in de bookmark werkt niet voor Sophia
@@ -32,6 +32,8 @@ Eventueel volgende tekst komt ver eronder te staan als je deheight niet aanpast.
     - Link via Dropbox: Dropbox ondersteunt het renderen van html files niet meer. Wordt Download of een Dropbox GUI.
     - Via Github: site aangemaakt, maar de template overschrijft de Readme.md
         - 04-10-2021 reste van Git gedaan.
+    - Navigatie maken in geval van meerdere tabbladen met html
+        - Hosten via GitHub. Index heeft linken naar de files, maar de linken worden nu opgenomen in de bookmarks. Navigatie is dus niet nodig.
 
 -- DONE -------------------------------------------------------------------
 - Is het mogelijk om de achtergrond van de niet gevulde cellen aan te passen (Misschien met een beperking op de cellen)
